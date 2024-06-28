@@ -31,15 +31,7 @@ public class Main
                 this.c = this.c;
             }
             
-            
-
-
-
-
-
-
-
-
+        
 
         }
 }
